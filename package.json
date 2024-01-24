@@ -1,0 +1,14 @@
+{
+  "name": "sample-project",
+  "version": "0.0.1",
+  "description": "Sample for educational purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quinn",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
